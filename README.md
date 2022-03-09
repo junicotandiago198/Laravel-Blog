@@ -12,10 +12,12 @@
 ```
     
 2. <h5>Buka .env lalu ubah baris berikut sesuai dengan databasemu yang ingin dipakai</h5>
+```
    - DB_PORT=3306
    - DB_DATABASE=laravel
    - DB_USERNAME=root
    - DB_PASSWORD=
+```
 
 
     
