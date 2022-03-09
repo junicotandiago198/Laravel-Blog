@@ -1,0 +1,8 @@
+Nama Website : Blog
+Password : 1JwN&Jn5qr3m6Ha)pI&R
+
+Database : 
+Database Name : id18294748_junico_blog
+dbuser : id18294748_junico
+dbhost: localhost
+Db password : SF?x)\]|w5b\(>o{
