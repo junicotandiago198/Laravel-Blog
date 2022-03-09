@@ -19,5 +19,11 @@
    - DB_PASSWORD=
 ```
 
+3. <h5>Instalasi website</h5>
+```
+    - php artisan key:generate
+    - php artisan migrate --seed
+```
+
 
     
