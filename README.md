@@ -25,5 +25,10 @@
     - php artisan migrate --seed
 ```
 
+4. <h5>Jalankan website</h5>
+```
+    - php artisan serve
+```
+
 
     
